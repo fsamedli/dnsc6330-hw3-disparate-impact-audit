@@ -1,4 +1,4 @@
-# dnsc6330-hw3-disparate-impact-audit
+
 # DNSC 6330 - Individual Homework 3  
 **Disparate Impact Audit**
 
